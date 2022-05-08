@@ -1,0 +1,5 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99,9%)","Unit"
+"fibonacci.FibonacciBenchmark.iterative","thrpt",1,4,"3703413,834603","308887,784917","ops/s"
+"fibonacci.FibonacciBenchmark.nonAnnotatedTailRecursive","thrpt",1,4,"3691899,082835","3321994,666453","ops/s"
+"fibonacci.FibonacciBenchmark.recursive","thrpt",1,4,"5725,620114","590,844703","ops/s"
+"fibonacci.FibonacciBenchmark.tailRecursive","thrpt",1,4,"4008972,106818","104654,182727","ops/s"
