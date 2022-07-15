@@ -8,3 +8,8 @@ JMH benchmark results are available in `bench.csv`.
 ## Bubble sort
 
 Implement the bubble sort using recursion.
+
+## Codingame
+[Solutions](https://github.com/FrequentlyMissedDeadlines/coding-interview-scala/tree/master/src/main/scala/codingame)
+### Robbery Optimisation
+### Rod cutting problem
